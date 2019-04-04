@@ -2,8 +2,8 @@
 *Files to look at*:
 
 * [CustomItemWithDefaultAction.aspx](./CS/WebSite/CustomItemWithDefaultAction.aspx) (VB: [CustomItemWithDefaultAction.aspx](./VB/WebSite/CustomItemWithDefaultAction.aspx))
-* [CustomItemWithDefaultAction.aspx.cs](./CS/WebSite/CustomItemWithDefaultAction.aspx.cs) (VB: [CustomItemWithDefaultAction.aspx](./VB/WebSite/CustomItemWithDefaultAction.aspx))
-* [DefaultItemWithCustomAction.aspx](./CS/WebSite/DefaultItemWithCustomAction.aspx) (VB: [DefaultItemWithCustomAction.aspx.vb](./VB/WebSite/DefaultItemWithCustomAction.aspx.vb))
+* [CustomItemWithDefaultAction.aspx.cs](./CS/WebSite/CustomItemWithDefaultAction.aspx.cs) (VB: [CustomItemWithDefaultAction.aspx.vb](./VB/WebSite/CustomItemWithDefaultAction.aspx.vb))
+* [DefaultItemWithCustomAction.aspx](./CS/WebSite/DefaultItemWithCustomAction.aspx) (VB: [DefaultItemWithCustomAction.aspx](./VB/WebSite/DefaultItemWithCustomAction.aspx))
 * [DefaultItemWithCustomAction.aspx.cs](./CS/WebSite/DefaultItemWithCustomAction.aspx.cs) (VB: [DefaultItemWithCustomAction.aspx.vb](./VB/WebSite/DefaultItemWithCustomAction.aspx.vb))
 <!-- default file list end -->
 # How to change default menu items and actions in the popup menu
