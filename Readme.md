@@ -14,6 +14,9 @@
 * [DefaultObjectDataSources.ascx.cs](./CS/WebSite/DefaultObjectDataSources.ascx.cs) (VB: [DefaultObjectDataSources.ascx.vb](./VB/WebSite/DefaultObjectDataSources.ascx.vb))
 <!-- default file list end -->
 # How to change default menu items and actions in the popup menu
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e291/)**
+<!-- run online end -->
 
 
 <p>This demo project shows  and how to add a new menu item and assign a built-in scheduler action to it. <br />
